@@ -8,7 +8,7 @@ https://buymeacoffee.com/b3lmans
 
 
 
-# Elegoo CC1 CANVAS on AD5M that's running Klipper
+# Elegoo CC1 CANVAS on AD5M that's running Klipper ( can follow the steps to get it running on any klipper printer )
 
  ## Mechanical testing and calibration HAS NOT BEEN DONE
 
