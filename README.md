@@ -4,6 +4,8 @@
 
 ##### It took me time, frustration episodes and broken canvas/ad5m mainboards to get here, a donation will help my work, thanks!!!
 
+https://buymeacoffee.com/b3lmans
+
 
 
 # Elegoo CC1 CANVAS on AD5M that's running Klipper
