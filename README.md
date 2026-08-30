@@ -6,7 +6,7 @@
 
 
 
-# Install Elegoo CC1 CANVAS on an AD5M already running Klipper
+# Elegoo CC1 CANVAS on AD5M that's running Klipper
 
  ## Mechanical testing and calibration HAS NOT BEEN DONE
 
