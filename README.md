@@ -30,7 +30,7 @@ https://buymeacoffee.com/b3lmans
 - Printer IP address and SSH login (`root`; the usual password is `klipper`).
 - One CC1 Elegoo CANVAS with STM32F401XC.
 - CANVAS powered by validated 24 V and GND wiring. (CHECK PICTURES)
-- Modified USB data cable connected from CANVAS to the AD5M USB port. ( Please make sure it is a USB A (to usb a/b/c/etc doesn't matter))
+- Modified USB data cable connected from CANVAS to the AD5M USB port. ( Please make sure it is a USB A (to usb a/b/c/etc doesn't matter)) So you cut a usb A to c/a/etc. wire and keep the USB A end (the one that plugs into the pc), you wire the usb A plug to the canvas plug
 
 
 
