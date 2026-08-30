@@ -40,9 +40,9 @@ https://buymeacoffee.com/b3lmans
 
 ## | DP | Green |
 
-## | GND | Black | Common USB/power ground |
+## | GND | Black |  - AD5M POWER SUPPLY GND
 
-## 24 V supply
+## 24 V supply - AD5M POWER SUPPLY 24v
 
 Do not connect the USB red 5 V conductor to the CANVAS 24 V input. Disconnect
 other USB serial/ACM devices while installing.
