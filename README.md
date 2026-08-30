@@ -32,12 +32,15 @@
 
 
 
-| CANVAS wire -> USB wire  (check pictures)
+## | CANVAS wire -> USB wire  (check pictures)
 
-| DM | White |
-| DP | Green |
-| GND | Black | Common USB/power ground |
-24 V supply
+## | DM | White |
+
+## | DP | Green |
+
+## | GND | Black | Common USB/power ground |
+
+## 24 V supply
 
 Do not connect the USB red 5 V conductor to the CANVAS 24 V input. Disconnect
 other USB serial/ACM devices while installing.
