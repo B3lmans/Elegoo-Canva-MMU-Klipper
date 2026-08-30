@@ -8,8 +8,7 @@
 
 # Install Elegoo CC1 CANVAS on an AD5M already running Klipper
 
-This procedure stops when CANVAS is connected to Klipper and the guarded AFC
-configuration is loaded. Mechanical testing and calibration HAS NOT BEEN DONE
+ ## Mechanical testing and calibration HAS NOT BEEN DONE
 
 ## What to use
 
